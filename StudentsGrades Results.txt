@@ -1,0 +1,7 @@
+Students and their grades:
+{Perry=9, Gerry=10, Harry=4, Terry=3, Larry=8, Corry=5, Dorry=10, Merry=7, Henry=2, Kerry=10}
+
+Highest grade is 10
+Gerry has grade 10
+Dorry has grade 10
+Kerry has grade 10
